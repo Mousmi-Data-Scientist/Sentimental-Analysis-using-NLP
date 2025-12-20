@@ -1,6 +1,6 @@
 # Sentimental-Analysis-using-NLP
 
-###Software & Tools Requirement
+Software & Tools Requirement
 
 1. [Github Account](https://github.com)
 2. [Python](https:www.python.org)
