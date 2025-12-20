@@ -1,6 +1,0 @@
-Flask
-NLTK
-Pandas
-TFIDF
-Matplotlib
-Seaborn 
