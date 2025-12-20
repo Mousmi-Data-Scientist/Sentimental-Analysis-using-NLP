@@ -3,10 +3,15 @@
 ⚙️ Tech Stack & Tools
 
 •	Programming Language: Python
+
 •	Web Framework: Flask
+
 •	Machine Learning: Scikit-learn, Naive Bayes
+
 •	NLP Techniques: Text preprocessing, vectorization
+
 •	Model Deployment: REST API
+
 •	Testing Tool: Postman
 
 
